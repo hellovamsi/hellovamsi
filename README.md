@@ -4,7 +4,7 @@ I get companies closer to their goals.
 
 My main focus is finding the right problems, and working with humans to solve them.
 
-On GitHub, I'm figuring out this new AI thing. All the memes seem to be about it, so it _must be_ important, huh? I learn how AI works by building a first-principles view into AI concepts like RAG and agents, then I build tools for myself that other PMs can also use. I try to build on local AI as much as I can - Ollama FTW! 🦙
+On GitHub, I'm figuring out this new AI thing. All the memes seem to be about it, so it _must be_ important, huh? I learn how AI works by building a first-principles view into concepts like RAG, agents, and evals. Then I build tools for myself that other PMs can also use. I try to build on local AI as much as I can - Ollama FTW! 🦙
 
 I take requests on what to explore next. Send me a message on LinkedIn.
 
