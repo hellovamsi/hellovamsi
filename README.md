@@ -4,7 +4,7 @@ I get companies closer to their goals.
 
 My main focus has been on finding the right problems to solve, and doing the people work for getting them solved.
 
-On GitHub, I'm figuring out this new AI thing. All the memes seem to be about it, so it must be _important_, huh? I am building to learn how things work, and you are welcome to follow along to get a first-principles view into AI concepts like RAG and agents. I try to build on top of local AI models as much as I can - Ollama FTW! 🦙
+On GitHub, I'm figuring out this new AI thing. All the memes seem to be about it, so it _must be_ important, huh? I am building to learn how things work, and you are welcome to follow along to get a first-principles view into AI concepts like RAG and agents. I try to build on top of local AI models as much as I can - Ollama FTW! 🦙
 
 I take requests on what to explore next. Send me a message on LinkedIn if you want to make a request.
 
