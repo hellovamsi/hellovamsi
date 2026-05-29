@@ -10,8 +10,8 @@ I take requests on what to explore next. Send me a message on LinkedIn.
 
 ### About Me
 + Built fraud and location platforms for ~5 years at Delivery Hero (Berlin, DE)
-+ Before that, I built apps and optimised algorithms to improve customer satisfaction, grow business, and reduce losses at Ola (Bengaluru, IN)
-+ Something different: I launched a hardware smart button and did account management at a 40 person IoT startup in Hyderabad, IN
++ Before that, I built apps and optimised algorithms to improve customer satisfaction and ride matching at Ola (Bengaluru, IN)
++ Something different: I launched a hardware smart button and did account management at a 40 person IoT startup in Hyderabad, IN where I reported directly to the CEO
 
 Contact me on LinkedIn:
 🪔 I am offering pro-bono product work for startups or organisations working on social causes until 31 May 2026.
